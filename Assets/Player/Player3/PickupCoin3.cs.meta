@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fa35b875c89aa2544ab916cf9883aee7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - p1bank: {instanceID: 0}
+  - p1wallet: {instanceID: 0}
+  - signText: {instanceID: 0}
+  - audioPlayer: {instanceID: 0}
+  - moneyCollect: {fileID: 8300000, guid: bfb49d213435cb945bb710c309583209, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
